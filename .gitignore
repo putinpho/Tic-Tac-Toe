@@ -1,3 +1,6 @@
+# Debug folder
+/.vscode
+
 # dependencies
 /node_modules
 
