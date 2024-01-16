@@ -1,4 +1,7 @@
-function GameResult(){
-    // return();
+function GameResult({ value }){
+    return(
+        <>
+        </>
+    );
 }
 export default GameResult;
