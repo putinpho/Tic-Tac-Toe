@@ -1,2 +1,10 @@
-export default function Square() {
+function App() {
+  return (
+    <>
+      <GameResult />
+      <GameBoard />
+      <GameLog />
+    </>
+  );
 }
+export default App;
